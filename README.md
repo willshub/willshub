@@ -8,7 +8,8 @@ I lead product teams that turn data and AI into practical tools. Lately that mea
 
 ## 🎓 Currently
 
-Completing the **[Johns Hopkins Certificate Program in Agentic AI](https://online.lifelonglearning.jhu.edu/jhu-online-certificate-program-agentic-ai)**, building three capstone projects with multi-agent frameworks, RAG pipelines, and vector databases.
+Completing the **[Johns Hopkins Certificate Program in Agentic AI](https://online.lifelonglearning.jhu.edu/jhu-online-certificate-program-agentic-ai)**, building three capstone projects with multi-agent frameworks, RAG pipelines, and vector databases. [View my program eportfolio](https://www.mygreatlearning.com/eportfolio/wilson-raphale).
+
 
 ## 🤖 Agentic AI portfolio
 
@@ -19,7 +20,7 @@ Completing the **[Johns Hopkins Certificate Program in Agentic AI](https://onlin
 
 ## 🧭 Perspective
 
-Co-founded and served as **CEO** of Perspective https://perspectiveux.com/ (2018-2021), a bootstrapped SaaS product that captured real-time customer reactions inside an application. Surveys were triggered by a user's actions, so each question was contextual and less intrusive, which improved response rates. Responses rolled up into visualizations and statistical analysis that helped teams find patterns in how their users felt.
+Co-founded and served as **CEO** of [Perspective](https://perspectiveux.com/) (2018-2021), a bootstrapped SaaS product that captured real-time customer reactions inside an application. Surveys were triggered by a user's actions, so each question was contextual and less intrusive, which improved response rates. Responses rolled up into visualizations and statistical analysis that helped teams find patterns in how their users felt.
 
 As an early-stage founder I owned the business end to end: product strategy, sales and customer acquisition, finance, operations, and execution. We built prototypes, validated the market with customers, and shipped alpha and beta versions. The company is now dormant and open to acquisition inquiries.
 
